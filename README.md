@@ -22,7 +22,7 @@ Furthermore, student participants are asked to bring a poster of their research 
 ### Important Dates
 
 * Registration deadline:	November 15, 2017
-* Winter School:	February - 5 -9, 2018
+* Winter School:	February - 5 - 9, 2018
 
 ### Venue
 
@@ -68,20 +68,20 @@ The program includes presentations of three speakers:
 
 * Prof. Hans Vangheluwe, University of Antwerp, Belgium /University of McGill, Canada
 
-Professor Hans Vangheluwe is interested in the modelling and simulation based analysis and design of complex, cyber-physical systems. In the  Modelling, Simulation and Design Lab (MSDL) and AnSyMo Lab, he is studying with his team the theory of Multi-Paradigm Modelling (MPM) and build tools to support the design and implementation of such complex systems. The MSDL is part of the School of Computer Science of McGill University in Montréal, Québec, Canada and of the AnSyMo (Antwerp Systems and software Modelling) group in the department of Mathematics and Computer Science of the University of Antwerp, Antwerp, Belgium. The MSDL has projects, researchers and students in both locations. 
+  Professor Hans Vangheluwe is interested in the modelling and simulation based analysis and design of complex, cyber-physical systems. In the  Modelling, Simulation and Design Lab (MSDL) and AnSyMo Lab, he is studying with his team the theory of Multi-Paradigm Modelling (MPM) and build tools to support the design and implementation of such complex systems. The MSDL is part of the School of Computer Science of McGill University in Montréal, Québec, Canada and of the AnSyMo (Antwerp Systems and software Modelling) group in the department of Mathematics and Computer Science of the University of Antwerp, Antwerp, Belgium. The MSDL has projects, researchers and students in both locations. 
 
-Professor Vangheluwe will present formalisms needed to study cyber-physical systems: Causal Block Diagrams, Statecharts, Petri Nets. The CBDs and Statecharts allow to explain, after a short introduction to control theory (PID controllers), how to model, simulate, optimize, and finally, deploy a controller for example, an autonomous vehicle. 
+  Professor Vangheluwe will present formalisms needed to study cyber-physical systems: Causal Block Diagrams, Statecharts, Petri Nets. The CBDs and Statecharts allow to explain, after a short introduction to control theory (PID controllers), how to model, simulate, optimize, and finally, deploy a controller for example, an autonomous vehicle. 
 
 The following will be presented in the lectures:
 
 * Causal Block Diagrams syntax and semantics (in enough detail to build one's own Simulink-like simulator ... and code generator)
 
- Algebraic Causal Block Diagrams (denotational and operational), loop detection and solving.
- Discrete-Time Causal Block Diagrams
- Continuous-Time Causal Block Diagrams (denotational, translational semantics approximation)
+   Algebraic Causal Block Diagrams (denotational and operational), loop detection and solving.
+   Discrete-Time Causal Block Diagrams
+   Continuous-Time Causal Block Diagrams (denotational, translational semantics approximation)
 
 * PID controllers (in CBDs)
- shooting problems, optimization and deployment of controllers
+   shooting problems, optimization and deployment of controllers
 
 * Statecharts to model timed, autonomous and reactive systems at a discrete-event abstraction level
 
