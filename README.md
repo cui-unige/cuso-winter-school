@@ -21,7 +21,7 @@ Furthermore, student participants are asked to bring a poster of their research 
 
 ### Important Dates
 
-* Registration deadline:	November 15, 2017 (closed)
+* Registration deadline:	November 15, 2017
 * Winter School:	February - 5 -9, 2018
 
 ### Venue
@@ -46,7 +46,7 @@ Programme
 
 The program includes presentations of three speakers:
 
-1. Introduction to Data Science and Big Data
+1. Introduction to Cyber Physical Systems
 
   
 ### Schedule
