@@ -1,7 +1,3 @@
----
-title: CUSO Winter School in Computer Science
----
-
 ## Data Science in Information Society: From Data Acquisition to Data Analysis
 
 January 30 - February 3, 2017
