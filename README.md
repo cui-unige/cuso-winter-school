@@ -102,16 +102,16 @@ The program includes presentations of three speakers:
 
   Professor Vangheluwe will present formalisms needed to study cyber-physical systems: Causal Block Diagrams, Statecharts, Petri Nets. The CBDs and Statecharts allow to explain, after a short introduction to control theory (PID controllers), how to model, simulate, optimize, and finally, deploy a controller for example, an autonomous vehicle. 
 
-**Oscar Corcho** is a full Professor at Universidad Politécnica de Madrid (UPM) where he is leading a team of 15 people (including post-docs, PhD students and software engineers) at the Ontology Engineering Group. 
-- He co-founded LocaliData in 2013, a spin-off that aims at obtaining added value from the combination of open and closed data in the context of medium and large smart cities (http://www.localidata.com/). 
+* **Oscar Corcho** is a full Professor at Universidad Politécnica de Madrid (UPM) where he is leading a team of 15 people (including post-docs, PhD students and software engineers) at the Ontology Engineering Group. 
+ He co-founded LocaliData in 2013, a spin-off that aims at obtaining added value from the combination of open and closed data in the context of medium and large smart cities (http://www.localidata.com/). 
 
-His work is mainly focused on applied research in the areas of Linked Data, Semantic e-Science and the Real World Internet. He also has wide experience in Ontology Engineering. In these areas, he has participated, and led, a number of EU and Spanish R&D projects, together with other knowledge-transfer projects funded by international companies and public organisations. 
+  His work is mainly focused on applied research in the areas of Linked Data, Semantic e-Science and the Real World Internet. He also has wide experience in Ontology Engineering. In these areas, he has participated, and led, a number of EU and Spanish R&D projects, together with other knowledge-transfer projects funded by international companies and public organisations. 
  I am also teaching one of the courses at the Master on Business Analytics and Big Data at Instituto de Empresa (http://mbd.ie.edu/), and have taught several courses on Open Data for civil servants, city information managers and data reusers. Previously, I worked as a Marie Curie research fellow at the University of Manchester, and as a research manager at iSOCO. I also took part in LikeCube, a startup working on personalised recommendation that was acquired by TimeOut in July 2011. 
 
-He is an expert in Linked Data, SPARQL, RDF, Ontologies, data streams, e-Science, R&D management
+  He is an expert in Linked Data, SPARQL, RDF, Ontologies, data streams, e-Science, R&D management
 
 
-**Ruben Verborgh** is a postdoctoral researcher in Semantic Hypermedia at Massachusetts Institute of Technology and Ghent University. He explores the connection between Semantic Web technologies and the Web's architectural properties, with the ultimate goal of building more intelligent clients. He is a recognised specialist of Linked Data, REST/hypermedia, Web APIs, and related technologies. He's a co-author of two books on Linked Data, and has contributed to more than 140 publications on Web-related topics for international conferences and journals.     
+* **Ruben Verborgh** is a postdoctoral researcher in Semantic Hypermedia at Massachusetts Institute of Technology and Ghent University. He  explores the connection between Semantic Web technologies and the Web's architectural properties, with the ultimate goal of building more intelligent clients. He is a recognised specialist of Linked Data, REST/hypermedia, Web APIs, and related technologies. He's a co-author of two books on Linked Data, and has contributed to more than 140 publications on Web-related topics for international conferences and journals.     
 
 
 ### Registration
