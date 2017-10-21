@@ -44,9 +44,9 @@ Hotel Suisse,Champéry
 Student participants are asked to bring a poster of their research work, either existing results or ongoing research that they are currently conducting. Further instructions of how their work will be showcased during the Winter School will be sent by email to everyone closer to the event.
 Programme
 
-The program includes presentations of three speakers:
+The program includes presentations by three speakers:
 
-1. Cyber Physical Systems
+1. Cyber Physical Systems (H. Vangheluwe)
 
 * Causal Block Diagrams syntax and semantics (in enough detail to build one's own Simulink-like simulator ... and code generator)
 
@@ -61,19 +61,17 @@ The program includes presentations of three speakers:
 
 * Modelling Language Engineering:  to introduce syntax and semantics of languages,
 
-2. Ontology engineering
+2. Ontology engineering (O. Corcho)
 
-* Ontology engineering: ontological languages, methodologies for designing ontologies, supporting tools
+* Ontology engineering: ontological languages, types of ontologies and their use
 
-* Ontology engineering for the semantic web and the web of linked data
+* methodologies for designing ontologies, supporting tools
 
-* Modelling of scientific objects and processes in the semantic web (scientific linked data)
+* ontology-based software engineering, ontology-based applications
 
-3. Knowledge engineering
+3. Semantic Web engineering (R. Verborgh)
 
-* An introduction to the semantic web and linked data
-
-* Models and techniques for publishing linked data
+* Introduction to the semantic web and linked data
 
 * Software engineering for the semantic web
 
@@ -83,15 +81,18 @@ The program includes presentations of three speakers:
 
 | Day | Hour | Title | Speaker |
 | --- | --- | --- | --- |
-| Monday,   5 | 14h00 - 15h30 |  Cyber Physical System Modeling | Hans Vangheluwe |
+| Monday,   5  | 14h00 - 15h30 | Cyber Physical System Modeling | Hans Vangheluwe |
 |              | 16h00 - 19h30 | Cyber Physical System Modeling | Hans Vangheluwe |
-| Tuesday,  6 | 08h30 - 12h00 |  Cyber Physical System Modeling | Hans Vangheluwe |
-|              | 17h00 - 19h00	| PhD student presentations | .... |
-| Wednesday, 7 | 08h30 - 12h00 |Ontology Engineering | Oscar Corcho |
-|              | 17h00 - 19h00	| PhD student presentations | ... |
-| Thursday,  8 | 08h30 - 12h00 |Ontology Engineering |  Oscar Corcho |
-|              | 17h00 - 19h00	| PhD student presentations | ... |
-| Friday,    9 | 08h30 - 12h00 | Knowledge engineering | Ruben Verbogh |
+| Tuesday,  6  | 08h30 - 12h00 | Cyber Physical System Modeling | Hans Vangheluwe |
+|              | 17h00 - 19h00 | PhD student presentations | .... |
+| Wednesday, 7 | 08h30 - 12h00 | Ontology Engineering | Oscar Corcho |
+|              | 17h00 - 18h30 | Ontology Engineering | Oscar Corcho |
+|              | 18h30 - 19h30 | PhD student presentations | ... |
+| Thursday,  8 | 08h30 - 10h00 | Ontology Engineering |  Oscar Corcho |
+|              | 10h30 - 12h00 | Semantic Web Engineering | Ruben Verbogh |
+|              | 17h00 - 18h30 | Semantic Web Engineering | Ruben Verbogh |
+|              | 18h30 - 19h30 | PhD student presentations | ... |
+| Friday,    9 | 08h30 - 12h00 | Semantic Web Engineering | Ruben Verbogh |
 |              | 12h00 - 12h30 | Wrap-up |  |
 
 ### Speakers
