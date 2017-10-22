@@ -63,11 +63,9 @@ The program includes presentations by three speakers:
 
 2. Ontology engineering (O. Corcho)
 
-* Ontology engineering: ontological languages, types of ontologies and their use
-
-* Methodologies for designing ontologies, supporting tools
-
-* Ontology-based software engineering, ontology-based applications
+  * Ontology engineering: ontological languages, types of ontologies and their use
+  * Methodologies for designing ontologies, supporting tools
+  * Ontology-based software engineering, ontology-based applications
 
 3. Semantic Web engineering (R. Verborgh)
 
