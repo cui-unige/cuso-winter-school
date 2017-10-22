@@ -7,7 +7,7 @@ Champéry, Switzerland
 ### Overview
 
 This Winter School presents in the form of tutorials (for non-specialists) the various principles and techniques for the modelling of knowledge and the cyber-physical systems.
-Although these two domains are distinct as research theme, we would like to show that they are complementary and that they can be inspired from each other. The presenters , 
+Although these two domains are distinct as research themes, we would like to show that they are complementary and that they can be inspired from each other. The presenters , 
 who are renowned  researchers in their respective fields will present among other topics, formal techniques for modelling cyber-physical systems and techniques and tools for knowledge engineering.
 
 Furthermore, student participants are asked to bring a poster of their research work, either existing results or ongoing research that they are currently conducting.
@@ -65,17 +65,17 @@ The program includes presentations by three speakers:
 
 * Ontology engineering: ontological languages, types of ontologies and their use
 
-* methodologies for designing ontologies, supporting tools
+* Methodologies for designing ontologies, supporting tools
 
-* ontology-based software engineering, ontology-based applications
+* Ontology-based software engineering, ontology-based applications
 
 3. Semantic Web engineering (R. Verborgh)
 
-* Introduction to the semantic web and linked data
+* Introduction to the Semantic Web and linked data
 
-* Software engineering for the semantic web
+* Software engineering for the Semantic Web
 
-* Hands-on sessions on the development of ontology-based semantic web applications
+* Hands-on sessions on the development of ontology-based Semantic Web applications
 
 ### Schedule
 
