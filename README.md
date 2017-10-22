@@ -76,7 +76,8 @@ The program includes presentations by three speakers:
 | Monday,   5  | 14h00 - 15h30 | Cyber Physical System Modeling | Hans Vangheluwe |
 |              | 16h00 - 19h30 | Cyber Physical System Modeling | Hans Vangheluwe |
 | Tuesday,  6  | 08h30 - 12h00 | Cyber Physical System Modeling | Hans Vangheluwe |
-|              | 17h00 - 19h00 | PhD student presentations | .... |
+|              | 17h00 - 18h30 | Cyber Physical System Modeling | Hans Vangheluwe |
+|              | 18h00 - 19h30 | PhD student presentations | .... |
 | Wednesday, 7 | 08h30 - 12h00 | Ontology Engineering | Oscar Corcho |
 |              | 17h00 - 18h30 | Ontology Engineering | Oscar Corcho |
 |              | 18h30 - 19h30 | PhD student presentations | ... |
