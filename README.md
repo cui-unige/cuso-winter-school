@@ -46,8 +46,7 @@ Programme
 
 The program includes presentations by three speakers:
 
-1. Cyber Physical Systems (H. Vangheluwe)
-
+* **Cyber Physical Systems (H. Vangheluwe)**
   * Causal Block Diagrams syntax and semantics (in enough detail to build one's own Simulink-like simulator ... and code generator)
     * Algebraic Causal Block Diagrams (denotational and operational), loop detection and solving.
     * Discrete-Time Causal Block Diagrams
@@ -57,14 +56,12 @@ The program includes presentations by three speakers:
   * Statecharts to model timed, autonomous and reactive systems at a discrete-event abstraction level
   * Modelling Language Engineering:  to introduce syntax and semantics of languages,
 
-2. Ontology engineering (O. Corcho)
-
+* **Ontology engineering (O. Corcho)**
   * Ontology engineering: ontological languages, types of ontologies and their use
   * Methodologies for designing ontologies, supporting tools
   * Ontology-based software engineering, ontology-based applications
 
-3. Semantic Web engineering (R. Verborgh)
-
+* **Semantic Web engineering (R. Verborgh)**
   * Introduction to the Semantic Web and linked data
   * Software engineering for the Semantic Web
   * Hands-on sessions on the development of ontology-based Semantic Web applications
