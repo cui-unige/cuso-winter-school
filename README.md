@@ -117,7 +117,7 @@ Cancellation should be announced to the organizers at least until the 9th of Jan
 
 Please register before Friday, November 15th, 2017. After this date we can not guarantee you a room in the hotel
 
-The link for registration at the CUSO site is: here
+The link for registration at the CUSO site is: https://informatique.cuso.ch/activities/
 
 NOTE: Since double rooms for PhD students will be shared between two students, in the "Comments and Response to Message" field, please indicate the name of another student with whom you would like to share a room.
 
