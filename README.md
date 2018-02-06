@@ -74,7 +74,7 @@ The program includes presentations by three speakers:
 |              | 16h00 - 19h30 | Cyber Physical System Modeling | Hans Vangheluwe ||
 | Tuesday,  6  | 08h30 - 12h00 | Cyber Physical System Modeling | Hans Vangheluwe ||
 |              | 17h00 - 18h30 | Cyber Physical System Modeling | Hans Vangheluwe ||
-|              | 18h30 - 18h50 | PhD student presentations | Dimitri Racordon  ||
+|              | 18h30 - 18h50 | PhD student presentations | Dimitri Racordon  |[slides](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/Dimitri-Racordon.pdf)|
 |              | 18h50 - 19h10 | PhD student presentations |  Stefan Klikovits  | [slides](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/Stefan-Klikovits.pdf)|
 |              | 19h10 - 19h30 | PhD student presentations | Allan Berrocal  | [slides](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/Allan-Berrocal.pdf)|
 | Wednesday, 7 | 08h30 - 12h00 | Ontology Engineering | Oscar Corcho ||
