@@ -75,8 +75,8 @@ The program includes presentations by three speakers:
 | Tuesday,  6  | 08h30 - 12h00 | Cyber Physical System Modeling | Hans Vangheluwe ||
 |              | 17h00 - 18h30 | Cyber Physical System Modeling | Hans Vangheluwe ||
 |              | 18h30 - 18h50 | PhD student presentations | Dimitri Racordon  ||
-|              | 18h50 - 19h10 | PhD student presentations |  Stefan Klikovits  | [slides]|
-|              | 19h10 - 19h30 | PhD student presentations | Allan Berrocal  | slides[slides](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/Allan-Berrocal.pdf)|
+|              | 18h50 - 19h10 | PhD student presentations |  Stefan Klikovits  | [slides](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/Stefan-Klikovits.pdf)|
+|              | 19h10 - 19h30 | PhD student presentations | Allan Berrocal  | [slides](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/Allan-Berrocal.pdf)|
 | Wednesday, 7 | 08h30 - 12h00 | Ontology Engineering | Oscar Corcho ||
 |              | 17h00 - 18h30 | Ontology Engineering | Oscar Corcho ||
 |              | 18h30 - 18h50 | PhD student presentations | Selena Baset  ||
@@ -87,7 +87,7 @@ The program includes presentations by three speakers:
 |              | 17h00 - 18h30 | Semantic Web Engineering | Ruben Verborgh ||
 |              | 18h30 - 18h50 | PhD student presentations | Sahar Aljabout  ||
 |              | 18h50 - 19h10 | PhD student presentations |  Mohammad Parhizkar  ||
-|              | 19h10 - 19h30 | PhD student presentations | Xavier Ouvrard ||
+|              | 19h10 - 19h30 | PhD student presentations | Xavier Ouvrard [slides](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/Xavier-Ouvrard.pdf)||
 |              | 19h30 - 19h50 | PhD student presentations | Sami Ghadfi ||
 | Friday,    9 | 08h30 - 12h00 | Semantic Web Engineering | Ruben Verborgh ||
 |              | 12h00 - 12h30 | Wrap-up |  ||
