@@ -87,7 +87,7 @@ The program includes presentations by three speakers:
 |              | 17h00 - 18h30 | Semantic Web Engineering | Ruben Verborgh ||
 |              | 18h30 - 18h50 | PhD student presentations | Sahar Aljabout  ||
 |              | 18h50 - 19h10 | PhD student presentations |  Mohammad Parhizkar  ||
-|              | 19h10 - 19h30 | PhD student presentations | Xavier Ouvrard [slides](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/Xavier-Ouvrard.pdf)||
+|              | 19h10 - 19h30 | PhD student presentations | Xavier Ouvrard |[slides](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/Xavier-Ouvrard.pdf)|
 |              | 19h30 - 19h50 | PhD student presentations | Sami Ghadfi ||
 | Friday,    9 | 08h30 - 12h00 | Semantic Web Engineering | Ruben Verborgh ||
 |              | 12h00 - 12h30 | Wrap-up |  ||
