@@ -70,10 +70,10 @@ The program includes presentations by three speakers:
 
 | Day | Hour | Title | Speaker |documents|
 | --- | --- | --- | --- |---|
-| Monday,   5  | 14h00 - 15h30 | Cyber Physical System Modeling | Hans Vangheluwe ||
-|              | 16h00 - 19h30 | Cyber Physical System Modeling | Hans Vangheluwe ||
-| Tuesday,  6  | 08h30 - 12h00 | Cyber Physical System Modeling | Hans Vangheluwe ||
-|              | 17h00 - 18h30 | Cyber Physical System Modeling | Hans Vangheluwe ||
+| Monday,   5  | 14h00 - 15h30 | Cyber Physical System Modeling | Hans Vangheluwe |[slides1](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/1.presentation.CPSintro.pdf)[slides2](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/2.presentation.modellingNcomplexity.pdf)|
+|              | 16h00 - 19h30 | Cyber Physical System Modeling | Hans Vangheluwe |[slides3](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/3.presentation.modellingLanguages.pdf)[slides4](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/4.presentation.StatechartsModellingAndSimulation.pptx)|
+| Tuesday,  6  | 08h30 - 12h00 | Cyber Physical System Modeling | Hans Vangheluwe |[slides5](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/5.presentation.modellingPhysicalSystems.pdf)|
+|              | 17h00 - 18h30 | Cyber Physical System Modeling | Hans Vangheluwe |[slides6](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/6.presentation.controlIntro.pdf)[slides7](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/7.presentation.modularDesignHybridLanguages.pdf)|
 |              | 18h30 - 18h50 | PhD student presentations | Dimitri Racordon  |[slides](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/Dimitri-Racordon.pdf)|
 |              | 18h50 - 19h10 | PhD student presentations |  Stefan Klikovits  | [slides](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/Stefan-Klikovits.pdf)|
 |              | 19h10 - 19h30 | PhD student presentations | Allan Berrocal  | [slides](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/Allan-Berrocal.pdf)|
