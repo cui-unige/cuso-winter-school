@@ -79,9 +79,9 @@ The program includes presentations by three speakers:
 |              | 19h10 - 19h30 | PhD student presentations | Allan Berrocal  | [slides](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/Allan-Berrocal.pdf)|
 | Wednesday, 7 | 08h30 - 12h00 | Ontology Engineering | Oscar Corcho ||
 |              | 17h00 - 18h30 | Ontology Engineering | Oscar Corcho ||
-|              | 18h30 - 18h50 | PhD student presentations | Selena Baset  ||
-|              | 18h50 - 19h10 | PhD student presentations |  Dina Elikan  ||
-|              | 19h10 - 19h30 | PhD student presentations | Stéphane Kundig ||
+|              | 18h30 - 18h50 | PhD student presentations | Selena Baset  |[slides](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/Selena-Baset.pdf)|
+|              | 18h50 - 19h10 | PhD student presentations |  Dina Elikan  |[slides](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/Dina-Elikan.pdf)|
+|              | 19h10 - 19h30 | PhD student presentations | Stéphane Kundig |[slides](https://github.com/cui-unige/cuso-winter-school/blob/master/presentations/Stephane-Kundig.pdf)|
 | Thursday,  8 | 08h30 - 10h00 | Ontology Engineering |  Oscar Corcho ||
 |              | 10h30 - 12h00 | Semantic Web Engineering | Ruben Verborgh ||
 |              | 17h00 - 18h30 | Semantic Web Engineering | Ruben Verborgh ||
